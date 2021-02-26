@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "lunch-n-learn-mar2020"
+version = "0.1.0"
+description = ""
+authors = ["Chris Hunt <chris.hunt@hudl.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.2.2"
+flair = "^0.7"
+spacy = "^3.0.3"
+jupyter = "^1.0.0"
+nltk = "^3.5"
+seaborn = "^0.11.1"
+detecto = "^1.2.0"
+torch = "^1.7.1"
+textblob = "^0.15.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

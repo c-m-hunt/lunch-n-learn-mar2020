@@ -1,8 +1,0 @@
-spacy
-nltk
-seaborn
-textblob
-beautifulsoup4
-flair
-detecto
-pandas==1.0.1
